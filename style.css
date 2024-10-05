@@ -16,7 +16,7 @@ justify-content: space-evenly;
 .card1{
     margin: auto;
     width: 22rem;
-    height: auto;
+    height: 22rem;
    display: block;
 }
 .img{
@@ -26,32 +26,36 @@ justify-content: space-evenly;
     min-height: 10rem;
    border-top-left-radius: 2rem;
    border-bottom-right-radius:2rem;
+   
 }
 .p{
 height: 4rem;
-
+width: auto;
     display: flex;
 
 }
 .logo{
 height: 4rem;
+width: auto;
 
 }
 .logo img{
     margin-top: 10px;
-    width: 40px;
-    height: 40px;
+    width: 2.5rem;
+    height: 2.5rem;
     border-radius: 50%;
 }
 .title{
     height: 4rem;
     padding-top: 0.7rem;
     padding-left: 1rem;
+    width: auto;
 }
 
 
 .head{
  height: 1rem;
+ width: auto;
 
 }
 .h1{
@@ -61,8 +65,6 @@ height: 4rem;
 }
 
 
-.para{
-}
 .p2{
     padding-left: 0.8em;
     padding-top: 0.4rem;
@@ -70,6 +72,7 @@ height: 4rem;
 .view{
  display: flex;
  height: 1rem;
+ width: auto;
 }
 .vie{
     font-size: 0.6rem;
