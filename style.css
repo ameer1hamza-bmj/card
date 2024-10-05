@@ -15,7 +15,7 @@
     flex-wrap: wrap; /* Allow wrapping */
     justify-content: center; /* Center cards */
     padding: 20px; /* Add padding */
-    
+ 
 }
 
 .card1{
@@ -23,6 +23,7 @@
     width: 22rem;
     height: 22rem;
     display: block;
+
 }
 
 .img {
@@ -32,6 +33,7 @@
     min-height: 10rem;
     border-top-left-radius: 2rem;
     border-bottom-right-radius: 2rem;
+    box-shadow: 5px 5px 10px 0px rgba(0, 0, 0, 0.5);
 }
 
 .p {
