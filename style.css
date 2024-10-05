@@ -63,11 +63,20 @@ border: 1px solid green;
 
 .head{
  border: 1px solid green;
+ height: 2rem;
+
 }
 .h1{
-    margin-left: 0.8rem;
-    margin-top: 0.4rem;
-    font-size: 1.2em;
+  padding-left: 3.5rem;
+    font-size: 0.6rem;
+    font-weight: bolder;
+}
+
+.vie li{
+    display: inline-block;
+    font-size: 0.6rem;
+    padding-left: 3.5rem;
+    font-weight: bolder;
 }
 .para{
     border: 1px solid red;
