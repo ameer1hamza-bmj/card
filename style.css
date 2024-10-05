@@ -18,7 +18,7 @@
     
 }
 
-.card1, .card2, .card3 {
+.card1{
     margin: 10px; /* Add margin between cards */
     width: 22rem;
     height: 22rem;
