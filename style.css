@@ -27,8 +27,27 @@ justify-content: space-evenly;
     border: 1px solid green;
 }
 .p{
-
+height: 4rem;
     border: 2px solid blue;
+    display: flex;
+
+}
+.logo{
+height: 4rem;
+
+border: 1px solid green;
+}
+.logo img{
+    margin-top: 10px;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+.title{
+    border: 1px solid red;
+    height: 4rem;
+    padding-top: 0.7rem;
+    padding-left: 1rem;
 }
 .don{
     background-color: #43B7D5;
@@ -52,6 +71,10 @@ justify-content: space-evenly;
 }
 .para{
     border: 1px solid red;
+}
+.p2{
+    padding-left: 0.8em;
+    padding-top: 0.4rem;
 }
 .card2{
     margin: auto;
